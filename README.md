@@ -173,7 +173,7 @@ Toast.show({
 | `duration` | `number`   | `5000`    | Duration in milliseconds to show the toast    |
 | `position` | `string`   | `'right'` | Horizontal position (`'left'`, `'right'`, `'center'`) |
 | `align`    | `string`   | `'top'`   | Vertical position (`'top'`, `'bottom'`, `'center'`) |
-| `colour`   | `string`   | `null`    | Color for the left border (CSS color value)   |
+| `colour`   | `string`   | `null`    | Colour for the left border (CSS color value)  |
 | `onShow`   | `function` | `null`    | Callback when this toast is shown             |
 | `onClose`  | `function` | `null`    | Callback when this toast is closed (for any reason) |
 | `onDismiss`| `function` | `null`    | Callback when this toast is dismissed manually |
